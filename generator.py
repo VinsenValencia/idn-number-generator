@@ -3,7 +3,6 @@ import random
 # FOLLOW ME ON GITHUB :D
 print( """                                                                                                                                
                  NumberGenerator
-                 Made By CRACKED
  
 """)
 def generate_indonesian_numbers():
