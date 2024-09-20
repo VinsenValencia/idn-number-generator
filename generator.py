@@ -1,5 +1,5 @@
 import random
-# Made by CR4CK3D
+# Coba COba
 # FOLLOW ME ON GITHUB :D
 print( """                                                                                                                                
                  NumberGenerator
